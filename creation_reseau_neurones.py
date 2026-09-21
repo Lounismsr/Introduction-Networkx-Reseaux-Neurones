@@ -5,7 +5,7 @@ Ce script génère un jeu de données bruité, construit un réseau de
 neurones feedforward (2 couches cachées de 10 neurones ReLU), l'entraîne
 puis affiche la comparaison entre les données réelles et la prédiction.
 
-Issu du mini-projet "Introduction à NetworkX et les réseaux de neurones"
+Issu du projet "Introduction à NetworkX et les réseaux de neurones"
 (Licence Mathématiques Appliquées, Université de Béjaïa, 2023-2024).
 """
 

@@ -1,6 +1,6 @@
 # Introduction à NetworkX et les réseaux de neurones
 
-Mini-projet de fin de cycle — Licence en Mathématiques Appliquées
+Projet de fin de cycle — Licence en Mathématiques Appliquées
 Université Abderrahmane Mira de Béjaïa, Faculté des Sciences Exactes,
 Département de Recherche Opérationnelle
 Année universitaire 2023–2024
@@ -30,7 +30,7 @@ l'informatique :
 
 ```
 .
-├── rapport.pdf                        # Rapport complet du mini-projet
+├── rapport.pdf                        # Rapport complet du projet
 ├── presentation.pptx                  # Support de soutenance
 ├── creation_reseau_neurones.py        # Création et entraînement du modèle Keras
 ├── visualisation_networkx.py          # Visualisation du réseau avec NetworkX

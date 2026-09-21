@@ -4,7 +4,7 @@ Visualisation de la structure d'un réseau de neurones avec NetworkX.
 Ce script construit un graphe orienté représentant l'architecture d'un
 réseau de neurones (couches et connexions) et l'affiche avec Matplotlib.
 
-Issu du mini-projet "Introduction à NetworkX et les réseaux de neurones"
+Issu du projet "Introduction à NetworkX et les réseaux de neurones"
 (Licence Mathématiques Appliquées, Université de Béjaïa, 2023-2024).
 """
 
